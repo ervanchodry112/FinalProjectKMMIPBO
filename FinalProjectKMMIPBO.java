@@ -11,7 +11,7 @@ import javafx.stage.Stage;
  * @author Ervan
  */
 public class FinalProjectKMMIPBO extends Application {
-    
+    // Ini Comment
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
